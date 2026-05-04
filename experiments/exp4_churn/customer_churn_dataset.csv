@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Tenure_Months,SubscriptionType,MonthlyCharges,TotalCharges,PaymentMethod,SupportTickets,ContractType,Churn
+CUST1000,Male,49,54,Standard,99.33,4912.77,Net Banking,1,Two Year,0
+CUST1001,Female,56,8,Standard,12.01,604.59,Debit Card,2,Two Year,0
+CUST1002,Male,66,27,Basic,57.62,2019.39,Cash,4,Two Year,0
+CUST1003,Male,69,27,Premium,97.08,4848.88,Credit Card,7,Two Year,0
+CUST1004,Male,49,34,Standard,54.69,4334.26,Credit Card,9,One Year,1
+CUST1005,Female,21,21,Standard,64.79,4094.51,UPI,6,Two Year,1
+CUST1006,Male,47,30,Standard,71.1,1326.62,UPI,6,One Year,1
+CUST1007,Male,54,33,Basic,48.18,895.89,Cash,6,One Year,0
+CUST1008,Male,40,28,Standard,64.62,3359.78,Credit Card,7,One Year,0
+CUST1009,Female,56,47,Premium,60.51,4650.41,Cash,0,One Year,0
+CUST1010,Male,62,33,Standard,90.61,2805.98,UPI,3,Month-to-Month,1
+CUST1011,Male,32,5,Standard,9.32,2879.48,UPI,5,Month-to-Month,0
+CUST1012,Male,60,48,Premium,31.69,1435.9,Credit Card,8,Two Year,1
+CUST1013,Male,46,19,Standard,95.29,3858.99,Net Banking,1,Month-to-Month,0
+CUST1014,Female,53,4,Basic,89.58,975.87,Debit Card,0,Month-to-Month,0
+CUST1015,Male,30,35,Basic,48.29,1652.21,UPI,9,Two Year,1
+CUST1016,Female,49,49,Basic,63.91,2155.91,UPI,1,Two Year,0
+CUST1017,Female,24,17,Premium,31.35,2562.67,Net Banking,6,Two Year,1
+CUST1018,Female,68,44,Standard,22.87,1249.93,Net Banking,2,Month-to-Month,1
+CUST1019,Male,39,28,Basic,49.05,618.44,Cash,9,Month-to-Month,0
+CUST1020,Female,45,30,Premium,38.57,3072.57,Cash,1,Two Year,0
+CUST1021,Male,19,29,Standard,60.45,1478.72,Debit Card,6,One Year,0
+CUST1022,Female,59,46,Premium,12.38,2927.13,Debit Card,1,Two Year,1
+CUST1023,Female,62,53,Basic,97.57,814.1,Credit Card,2,One Year,0
+CUST1024,Female,23,6,Basic,98.69,2431.64,Cash,6,One Year,0
+CUST1025,Female,45,35,Basic,71.33,2686.32,UPI,3,Two Year,0
+CUST1026,Female,45,41,Premium,55.93,306.53,Cash,0,Two Year,1
+CUST1027,Female,61,37,Premium,34.41,1716.19,UPI,4,Two Year,0
+CUST1028,Female,61,24,Basic,82.31,715.35,Net Banking,8,Month-to-Month,1
+CUST1029,Female,37,29,Premium,70.05,363.71,Cash,7,One Year,1
+CUST1030,Male,47,49,Basic,20.45,4950.3,Net Banking,8,Month-to-Month,0
+CUST1031,Male,28,46,Basic,91.54,1645.65,Debit Card,9,Month-to-Month,0
+CUST1032,Female,45,53,Standard,83.14,4058.88,Debit Card,8,Two Year,1
+CUST1033,Female,42,31,Premium,95.23,1310.47,Credit Card,6,Month-to-Month,0
+CUST1034,Female,56,35,Basic,73.94,3423.44,Cash,3,Two Year,1
+CUST1035,Male,50,33,Basic,63.27,3813.13,Net Banking,4,One Year,0
+CUST1036,Female,18,52,Premium,44.73,2998.41,UPI,0,Two Year,0
+CUST1037,Male,44,21,Standard,93.61,2384.3,Debit Card,0,Month-to-Month,1
+CUST1038,Male,69,32,Standard,87.28,2088.61,Debit Card,2,Month-to-Month,0
+CUST1039,Male,30,23,Basic,9.3,1776.9,UPI,7,Two Year,0
+CUST1040,Male,58,33,Premium,7.5,4651.17,Net Banking,1,Two Year,0
+CUST1041,Male,20,3,Standard,40.76,4161.57,Net Banking,3,Month-to-Month,0
+CUST1042,Female,56,18,Premium,82.0,4826.88,Cash,1,One Year,0
+CUST1043,Female,23,25,Premium,98.79,665.27,Cash,4,One Year,0
+CUST1044,Female,25,42,Basic,19.29,3667.79,Credit Card,8,Two Year,1
+CUST1045,Female,44,31,Standard,61.44,4694.79,Debit Card,0,One Year,0
+CUST1046,Female,26,54,Basic,41.18,947.1,Cash,4,Month-to-Month,0
+CUST1047,Male,54,58,Standard,97.14,379.16,Net Banking,8,Two Year,0
+CUST1048,Female,50,3,Standard,85.0,3718.55,UPI,0,Month-to-Month,1
+CUST1049,Female,68,40,Standard,84.64,2893.64,Net Banking,8,Month-to-Month,0
+CUST1050,Male,59,46,Standard,49.53,4217.05,Debit Card,7,One Year,1
+CUST1051,Female,61,24,Standard,44.41,741.87,Net Banking,3,Two Year,0
+CUST1052,Male,41,50,Premium,30.97,3986.57,Credit Card,9,Two Year,0
+CUST1053,Female,32,32,Basic,10.36,1048.06,Debit Card,4,One Year,0
+CUST1054,Male,49,47,Premium,87.15,860.1,UPI,4,Month-to-Month,0
+CUST1055,Female,49,22,Standard,82.23,863.12,Credit Card,5,Month-to-Month,0
+CUST1056,Female,41,23,Basic,99.97,4082.14,Debit Card,6,Month-to-Month,0
+CUST1057,Male,58,2,Standard,99.68,3342.73,UPI,7,Month-to-Month,1
+CUST1058,Male,69,27,Basic,57.77,2639.17,Credit Card,7,Two Year,0
+CUST1059,Male,66,42,Premium,78.05,1826.21,Credit Card,1,Two Year,0
+CUST1060,Male,66,2,Basic,94.75,4392.14,Debit Card,8,One Year,0
+CUST1061,Male,69,26,Basic,85.72,1992.6,Cash,6,One Year,1
+CUST1062,Male,29,17,Basic,28.5,4092.17,Credit Card,3,Two Year,0
+CUST1063,Male,56,40,Basic,47.8,2223.72,Credit Card,3,Two Year,0
+CUST1064,Male,19,33,Basic,17.27,1915.87,UPI,7,Month-to-Month,0
+CUST1065,Female,20,9,Standard,95.63,2340.26,Net Banking,3,Month-to-Month,1
+CUST1066,Female,66,43,Basic,62.59,1541.82,Debit Card,5,One Year,0
+CUST1067,Male,54,54,Basic,26.72,3750.67,Debit Card,4,Two Year,0
+CUST1068,Female,66,48,Premium,68.81,2538.47,Cash,2,One Year,1
+CUST1069,Female,34,39,Basic,63.72,1199.45,Cash,9,Two Year,1
+CUST1070,Female,66,29,Premium,39.03,4502.89,Debit Card,1,Month-to-Month,0
+CUST1071,Female,19,42,Standard,15.79,1950.26,Cash,8,One Year,1
+CUST1072,Male,19,55,Basic,68.8,2740.59,UPI,9,One Year,0
+CUST1073,Female,45,26,Premium,54.43,4537.04,Debit Card,8,Two Year,0
+CUST1074,Male,40,35,Premium,78.37,3139.98,Cash,0,Month-to-Month,0
+CUST1075,Female,54,50,Standard,54.42,628.65,Debit Card,9,One Year,0
+CUST1076,Female,49,25,Basic,85.96,4702.17,Net Banking,2,Month-to-Month,0
+CUST1077,Female,50,24,Basic,57.43,3157.15,Credit Card,7,One Year,1
+CUST1078,Male,18,13,Premium,58.29,1707.78,Debit Card,5,Month-to-Month,0
+CUST1079,Female,36,58,Basic,88.28,739.4,Credit Card,4,Two Year,0
+CUST1080,Male,19,7,Premium,43.33,3980.42,Cash,4,One Year,0
+CUST1081,Female,61,57,Basic,17.73,3119.36,Credit Card,5,One Year,1
+CUST1082,Male,43,36,Premium,7.73,2690.63,Debit Card,6,Month-to-Month,0
+CUST1083,Female,49,45,Basic,76.74,4474.77,Net Banking,0,Month-to-Month,0
+CUST1084,Male,23,20,Standard,63.93,3953.56,Cash,8,One Year,0
+CUST1085,Male,49,1,Basic,71.89,800.79,Debit Card,2,Two Year,0
+CUST1086,Female,21,8,Basic,25.23,1593.02,Cash,3,Month-to-Month,1
+CUST1087,Male,28,46,Standard,17.96,1280.02,UPI,9,Month-to-Month,1
+CUST1088,Female,34,16,Basic,6.38,3732.53,Credit Card,0,Month-to-Month,0
+CUST1089,Female,55,14,Standard,38.31,215.99,UPI,9,One Year,1
+CUST1090,Female,41,12,Basic,61.04,2870.95,Debit Card,2,One Year,0
+CUST1091,Female,22,51,Premium,42.26,3824.17,Net Banking,1,One Year,1
+CUST1092,Female,69,23,Premium,46.56,4389.99,Cash,1,One Year,0
+CUST1093,Female,51,15,Basic,90.9,1743.3,Credit Card,0,Two Year,0
+CUST1094,Female,23,28,Basic,38.08,4115.22,Cash,7,Two Year,0
+CUST1095,Female,39,34,Basic,53.83,597.63,Debit Card,2,One Year,0
+CUST1096,Female,28,2,Premium,79.45,4239.94,Cash,2,Two Year,0
+CUST1097,Female,65,32,Basic,42.67,681.07,Credit Card,5,Month-to-Month,0
+CUST1098,Female,33,23,Premium,64.1,2016.57,Debit Card,7,Month-to-Month,0
+CUST1099,Male,50,22,Standard,86.92,3996.61,Cash,8,Month-to-Month,1
+CUST1100,Male,26,51,Premium,95.2,792.09,Net Banking,8,One Year,0
+CUST1101,Female,23,25,Premium,18.97,1184.79,Debit Card,3,Month-to-Month,0
+CUST1102,Female,33,58,Standard,93.03,3625.15,Debit Card,4,Two Year,1
+CUST1103,Female,46,22,Premium,51.75,3614.18,Net Banking,1,One Year,0
+CUST1104,Female,20,58,Basic,29.53,3223.68,UPI,8,Two Year,0
+CUST1105,Female,37,58,Basic,48.62,3485.04,Credit Card,7,Month-to-Month,0
+CUST1106,Female,53,22,Premium,98.1,2736.49,UPI,2,Month-to-Month,1
+CUST1107,Female,36,49,Basic,51.8,1296.41,Cash,8,Month-to-Month,0
+CUST1108,Female,43,52,Premium,36.23,1761.2,Net Banking,2,One Year,0
+CUST1109,Male,20,42,Basic,65.17,948.91,UPI,8,Two Year,1
+CUST1110,Female,36,6,Basic,27.81,4546.83,Debit Card,1,One Year,1
+CUST1111,Male,37,15,Premium,12.21,2937.79,Cash,9,One Year,0
+CUST1112,Female,49,54,Basic,17.24,2034.21,Cash,8,Month-to-Month,0
+CUST1113,Female,24,43,Premium,17.16,2336.93,UPI,7,One Year,0
+CUST1114,Male,69,37,Basic,19.43,4739.05,UPI,8,One Year,1
+CUST1115,Female,58,33,Basic,18.19,809.09,Net Banking,4,Month-to-Month,0
+CUST1116,Male,50,8,Standard,65.88,2951.84,Credit Card,1,One Year,0
+CUST1117,Female,57,53,Standard,22.28,2554.15,UPI,7,Month-to-Month,1
+CUST1118,Female,56,44,Premium,37.84,3076.7,UPI,5,Month-to-Month,0
+CUST1119,Male,35,44,Standard,90.19,139.65,Debit Card,7,Month-to-Month,0
+CUST1120,Female,57,5,Premium,50.03,4367.01,Cash,4,Month-to-Month,0
+CUST1121,Male,18,39,Standard,68.42,4663.99,Credit Card,9,One Year,0
+CUST1122,Female,28,4,Basic,21.37,2847.41,Debit Card,1,Month-to-Month,0
+CUST1123,Male,45,6,Premium,23.27,3498.42,Net Banking,5,Month-to-Month,0
+CUST1124,Male,42,45,Premium,8.88,4616.37,Net Banking,4,One Year,0
+CUST1125,Female,67,32,Basic,21.05,3550.83,UPI,4,One Year,0
+CUST1126,Female,40,52,Premium,31.47,805.07,UPI,0,Two Year,1
+CUST1127,Male,48,30,Premium,21.82,2902.63,Net Banking,1,One Year,0
+CUST1128,Female,47,47,Standard,13.43,3053.24,UPI,7,One Year,1
+CUST1129,Female,59,35,Premium,16.46,2149.45,Credit Card,2,Two Year,0
+CUST1130,Female,52,55,Basic,48.77,3695.4,UPI,9,One Year,1
+CUST1131,Male,24,40,Standard,24.6,4675.12,Cash,2,One Year,1
+CUST1132,Male,33,52,Standard,39.61,4631.56,UPI,7,One Year,0
+CUST1133,Male,43,16,Basic,52.82,2281.65,Debit Card,7,One Year,1
+CUST1134,Male,65,13,Basic,70.59,610.53,Credit Card,1,Two Year,1
+CUST1135,Male,69,50,Standard,8.73,4924.96,Debit Card,7,One Year,0
+CUST1136,Male,66,42,Premium,80.94,4202.55,Debit Card,0,One Year,0
+CUST1137,Male,19,30,Standard,64.65,667.08,Cash,5,Two Year,0
+CUST1138,Male,18,19,Basic,12.77,4608.17,Credit Card,7,Month-to-Month,1
+CUST1139,Male,65,17,Standard,87.99,4355.99,Credit Card,2,Two Year,1
+CUST1140,Female,29,56,Basic,92.48,2618.25,Credit Card,7,Month-to-Month,1
+CUST1141,Male,22,19,Standard,10.8,2976.81,Credit Card,0,Two Year,0
+CUST1142,Female,54,28,Premium,31.3,2025.06,Credit Card,8,Two Year,1
+CUST1143,Female,49,58,Standard,81.59,321.07,Cash,8,One Year,0
+CUST1144,Female,26,55,Standard,76.08,1709.23,UPI,4,Month-to-Month,0
+CUST1145,Male,58,26,Basic,22.53,4024.12,Debit Card,9,One Year,0
+CUST1146,Male,52,37,Basic,24.89,72.93,Credit Card,3,Month-to-Month,0
+CUST1147,Male,36,26,Basic,40.19,1700.82,UPI,5,Two Year,0
+CUST1148,Male,65,53,Standard,51.03,2020.94,UPI,6,Two Year,0
+CUST1149,Female,33,23,Premium,63.73,2710.11,Debit Card,4,Month-to-Month,0
+CUST1150,Male,20,9,Basic,40.05,4603.29,Cash,9,One Year,0
+CUST1151,Male,37,12,Basic,48.94,1764.41,Net Banking,8,One Year,0
+CUST1152,Male,41,53,Standard,76.01,1767.42,Net Banking,2,One Year,0
+CUST1153,Male,50,1,Basic,8.48,3700.63,UPI,6,One Year,0
+CUST1154,Male,41,58,Premium,28.98,2288.48,Debit Card,9,Two Year,0
+CUST1155,Female,69,58,Premium,72.77,1161.79,Net Banking,9,Two Year,0
+CUST1156,Male,28,1,Basic,90.04,2289.58,UPI,4,Two Year,0
+CUST1157,Female,66,47,Basic,53.61,747.24,Cash,6,Two Year,0
+CUST1158,Male,25,34,Standard,55.55,923.12,Net Banking,1,Two Year,0
+CUST1159,Female,53,32,Premium,15.18,2516.92,UPI,3,One Year,0
+CUST1160,Male,55,54,Premium,47.5,2123.68,UPI,1,One Year,0
+CUST1161,Male,57,48,Basic,55.6,4578.49,Credit Card,6,One Year,1
+CUST1162,Female,37,25,Standard,28.03,1843.85,Cash,1,One Year,0
+CUST1163,Female,52,40,Premium,30.58,2923.91,Credit Card,0,Two Year,0
+CUST1164,Female,65,45,Premium,40.84,3179.71,Debit Card,8,Two Year,0
+CUST1165,Male,42,53,Standard,6.91,114.82,Credit Card,0,Two Year,0
+CUST1166,Female,52,1,Standard,35.6,3334.51,Credit Card,7,Month-to-Month,0
+CUST1167,Male,42,16,Premium,25.09,931.28,Net Banking,1,One Year,0
+CUST1168,Male,46,39,Premium,36.11,4807.3,UPI,7,One Year,0
+CUST1169,Female,35,5,Standard,16.38,785.88,Cash,2,Two Year,0
+CUST1170,Female,63,22,Premium,89.6,2102.39,Credit Card,5,One Year,0
+CUST1171,Male,35,29,Basic,61.39,472.48,Cash,2,One Year,1
+CUST1172,Male,19,55,Basic,69.51,4984.53,Credit Card,6,Two Year,1
+CUST1173,Female,52,3,Standard,79.97,2535.87,Debit Card,9,Month-to-Month,1
+CUST1174,Female,33,12,Standard,52.35,2997.16,Credit Card,8,Month-to-Month,1
+CUST1175,Female,58,26,Standard,13.26,382.03,Net Banking,1,Month-to-Month,0
+CUST1176,Male,53,16,Basic,56.03,3762.3,UPI,4,Two Year,0
+CUST1177,Male,50,51,Premium,60.75,1089.03,Debit Card,5,One Year,0
+CUST1178,Male,21,37,Basic,75.82,4495.37,Credit Card,3,Two Year,0
+CUST1179,Male,50,22,Premium,46.01,1065.44,Cash,3,Two Year,1
+CUST1180,Male,31,57,Basic,17.12,993.9,Debit Card,3,One Year,0
+CUST1181,Male,38,29,Premium,31.96,230.92,Debit Card,1,Month-to-Month,1
+CUST1182,Female,65,14,Basic,39.49,2386.73,Credit Card,3,Month-to-Month,0
+CUST1183,Male,37,28,Standard,66.36,2845.96,Debit Card,0,Two Year,1
+CUST1184,Male,25,5,Basic,59.22,375.26,Cash,5,Month-to-Month,0
+CUST1185,Male,24,47,Premium,38.83,3888.86,Debit Card,0,Two Year,0
+CUST1186,Female,20,49,Basic,98.72,2293.78,Cash,9,Two Year,0
+CUST1187,Male,34,30,Basic,62.55,2645.73,Credit Card,5,One Year,0
+CUST1188,Male,50,46,Basic,27.54,2231.78,UPI,0,One Year,0
+CUST1189,Female,65,52,Standard,14.67,2033.78,Debit Card,5,One Year,0
+CUST1190,Male,29,5,Basic,19.52,2820.22,UPI,9,Two Year,1
+CUST1191,Male,68,12,Standard,28.37,818.44,Cash,7,One Year,0
+CUST1192,Male,39,16,Standard,20.26,950.54,Debit Card,1,Month-to-Month,0
+CUST1193,Male,39,26,Basic,22.72,4315.84,Net Banking,1,Month-to-Month,0
+CUST1194,Male,63,26,Basic,32.08,4733.27,UPI,3,Two Year,1
+CUST1195,Female,47,48,Basic,21.47,1897.88,Debit Card,2,Two Year,0
+CUST1196,Female,55,21,Premium,90.19,1390.19,UPI,3,One Year,0
+CUST1197,Female,55,39,Basic,12.62,3237.8,Debit Card,6,Two Year,0
+CUST1198,Male,62,36,Standard,54.83,2073.23,Credit Card,0,Two Year,0
+CUST1199,Male,68,33,Basic,43.99,175.66,UPI,5,Month-to-Month,0
